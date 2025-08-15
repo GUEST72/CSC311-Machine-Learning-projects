@@ -1,7 +1,9 @@
 # CSC311 - Assignment 1: Classification & Regression Fundamentals
 
 **Course:** Introduction to Machine Learning (CSC311)  
+
 **Instructor:** Dr. Marwan Torki, Eng. Youssef El-Ebiary 
+
 ---
 
 ## 🎯 Objectives
