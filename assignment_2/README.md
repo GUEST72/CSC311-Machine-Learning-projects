@@ -1,6 +1,9 @@
 # CSC311 - Assignment 2: From Linear Models to Deep Networks
 
 **Course:** Introduction to Machine Learning (CSC311)  
+
+**Instructor:** Dr. Marwan Torki, Eng. Youssef El-Ebiary 
+
 ---
 
 ## 🎯 Objectives
