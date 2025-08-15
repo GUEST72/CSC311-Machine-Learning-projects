@@ -28,7 +28,7 @@ Each assignment focuses on specific aspects of ML, progressing from fundamental 
 - **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**
 - **Scikit-Learn**
 - **PyTorch**
-- **Jupyter Notebook**
+- **Google Colab**
 
 ---
 
