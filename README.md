@@ -3,6 +3,8 @@
 This repository contains coursework for **CSC311: Introduction to Machine Learning** at Alexandria University, Faculty of Engineering.  
 Each assignment focuses on specific aspects of ML, progressing from fundamental algorithms to advanced deep learning techniques.
 
+**Instructor:** Dr. Marwan Torki, Eng. Youssef El-Ebiary 
+
 ---
 
 ## 📂 Contents
